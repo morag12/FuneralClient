@@ -1,0 +1,7 @@
+<project outputDir="C:\Users\Yaekith\source\repos\FuneralClient\FuneralClient\bin\Debug\NETLocker" baseDir="C:\Users\Yaekith\source\repos\FuneralClient\FuneralClient\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <rule pattern="true" preset="aggressive" inherit="false">
+    <protection id="ctrl flow" action="remove" />
+    <protection id="rename" action="remove" />
+  </rule>
+  <module path="FuneralClient.dll" />
+</project>
