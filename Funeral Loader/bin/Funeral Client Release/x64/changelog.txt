@@ -1,0 +1,10 @@
+Hello, thank you for purchasing FuneralClient! Welcome to Release v4.2
+
+Features Added:
+[+] Fixed some bugs
+[+] Global Interaction with objects, so if you interact with a mirror, everyone will see the mirror being toggled off/on, etc.
+
+Features Disabled For Now as they are buggy
+[=] Yoinking Avatars
+
+Place the Loader wherever you wish to use the client, and open up Funeral Loader.exe, keep trying until it works.

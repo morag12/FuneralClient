@@ -1,0 +1,11 @@
+Hello, thank you for purchasing FuneralClient! Welcome to Release v3.9
+
+Features Added:
+[+] Fixed bugs
+[+] ForceKick API Update (Yeet, revoked access to the leaked version of Funeral)
+[+] Added KOS (Make sure AutoKOS is enabled under Settings, and to add someone to KOS, search for their name and click Add to KOS)
+
+Features Disabled For Now as they are buggy
+[=] Yoinking Avatars
+
+Place the Loader wherever you wish to use the client, and open up Funeral Loader.exe, keep trying until it works.
