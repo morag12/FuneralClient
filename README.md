@@ -23,3 +23,6 @@
   Zielaz <br />
   Literal <br />
   That one nigga that leaked it, i still do not know to this day who did that lmao <br />
+  
+  # SETTING UP THE CLIENT
+  Obviously you'll need to remove the auth checks to my server, after that just build it and modify the Loader a bit so it doesnt auto  update and boom, inject, there you go. 
