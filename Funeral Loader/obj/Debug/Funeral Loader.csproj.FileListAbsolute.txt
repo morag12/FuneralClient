@@ -1,8 +1,0 @@
-C:\Users\Yaekith\source\repos\Funeral Loader\Funeral Loader\bin\Debug\Funeral Loader.exe.config
-C:\Users\Yaekith\source\repos\Funeral Loader\Funeral Loader\bin\Debug\Funeral Loader.exe
-C:\Users\Yaekith\source\repos\Funeral Loader\Funeral Loader\bin\Debug\Funeral Loader.pdb
-C:\Users\Yaekith\source\repos\Funeral Loader\Funeral Loader\bin\Debug\MInject.dll
-C:\Users\Yaekith\source\repos\Funeral Loader\Funeral Loader\obj\Debug\Funeral Loader.csprojAssemblyReference.cache
-C:\Users\Yaekith\source\repos\Funeral Loader\Funeral Loader\obj\Debug\Funeral Loader.csproj.CopyComplete
-C:\Users\Yaekith\source\repos\Funeral Loader\Funeral Loader\obj\Debug\Funeral Loader.exe
-C:\Users\Yaekith\source\repos\Funeral Loader\Funeral Loader\obj\Debug\Funeral Loader.pdb
