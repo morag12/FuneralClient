@@ -1,0 +1,6 @@
+Hello, thank you for purchasing FuneralClient! Welcome to Release v4.4
+
+Features Added:
+[+] Fixed Respawn Bug
+
+To get this update, please run the loader while the cheat itself is not injected.
