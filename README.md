@@ -11,7 +11,7 @@
  Myself - The rest of the client itself <br />
  Jakob - Testing the clients features <br />
  L. - For actually inspiring me to make the client <br />
- 
+ The buyers - For giving me money x3 and supporting the client itself, thank you <3 <br />
 # THE OGS FROM V1.0
   bunny <br />
   hep495 <br />
