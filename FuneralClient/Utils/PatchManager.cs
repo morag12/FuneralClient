@@ -49,6 +49,8 @@ namespace FuneralClient.Utils
                 ApplyPatch(typeof(ModerationManager), "IsBannedFromPublicOnly", "PublicBanPatch");
                 ApplyPatch(typeof(UserInteractMenu), "Update", "CloneAvatarPrefix");
                 ApplyPatch(typeof(VRCUiCurrentRoom), "EBABMBJIIML", "RespawnPrefix");
+                HarmonyInstance harmonyInstance = HarmonyInstance.Create(string.Empty);
+                harmonyInstance.Patch(AccessTools.Method(typeof(VRC_EventHandler), "InternalTriggerEvent", null, null), GetPatch("TriggerEvent"), null, null);
               
             }
             catch (Exception e)
@@ -70,6 +72,24 @@ namespace FuneralClient.Utils
                 Console.WriteLine("Patched Successfully.");
                 Console.ForegroundColor = ConsoleColor.White;
             }
+        }
+         private static bool TriggerEvent(ref VRC_EventHandler.VrcBroadcastType __1, ref int __2)
+        {
+
+            if (__1 == VRC_EventHandler.VrcBroadcastType.Always || __1 == VRC_EventHandler.VrcBroadcastType.AlwaysUnbuffered)
+            {
+                if (!GeneralUtils.WorldTriggers)
+                {
+                    return false;
+                }
+            }
+
+            if (GeneralUtils.WorldTriggers)
+            {
+                __1 = VRC_EventHandler.VrcBroadcastType.Always;
+            }
+
+            return true;
         }
         public static bool RespawnPrefix(ref VRCUiCurrentRoom __instance)
         {
