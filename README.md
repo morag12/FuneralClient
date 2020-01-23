@@ -9,7 +9,7 @@
  MrNull - Direct Fly <br />
  HTML - For supporting me and helping spreading awareness of the client <br />
  Anthony - For helping me with photon bots and all that <br />
- Greengray - Massive help with certain exploits and cool features, love you dude. <br />
+ Anonymous - Massive help with certain exploits and cool features, love you dude. <br />
  Frostbite - Cool guy <br />
  Dubyadude - Original Button API <br />
  Myself - The rest of the client itself <br />
